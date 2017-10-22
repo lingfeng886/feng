@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e346e84d-a691-49fd-8825-f21bb76eaad5" name="默认" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/git" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/iconlist.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ind_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ind_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/qrcode.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/text_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/text_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/01-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/01-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/01-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/01-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/01-05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/01-06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/01-07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/02-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/02-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/02-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/02-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/02-05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/02-06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/02-07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/03-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/03-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/03-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/03-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/03-05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/03-06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/03-07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/04-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/04-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/04-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/04-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/04-05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/04-06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/04-07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/05-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/05-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/05-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/05-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/05-05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/05-06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/05-07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/06-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/06-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/06-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/06-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/06-05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/06-06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/06-07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/07-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/07-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/07-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/07-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/07-05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/07-06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/07-07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/08-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/08-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/08-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/08-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/08-05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/08-06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/08-07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/09-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/09-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/09-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/09-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/09-05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/09-06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/09-07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/10-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/10-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/10-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/10-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/10-05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/10-06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-house/10-07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-jingjiren/01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-jingjiren/02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-jingjiren/03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-jingjiren/04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-newroom/01-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-newroom/01-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-newroom/01-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-newroom/02-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-newroom/02-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-newroom/02-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-newroom/03-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-newroom/03-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-newroom/03-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-newroom/03-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-newroom/04-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-newroom/04-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-newroom/04-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-newroom/04-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-news/01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-news/02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-news/03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-news/04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-news/h1_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-news/h2_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-news/h2_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-second_hand/01-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-second_hand/01-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-second_hand/01-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-second_hand/01-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-second_hand/01-05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-second_hand/02-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-second_hand/02-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-second_hand/02-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-second_hand/02-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img-second_hand/02-05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/mycss.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/user.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dianpu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jingjiren.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dianpu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jingjiren.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-1.11.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/newroom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/news.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/news_details.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/register.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/second-hand.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/user.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/zf_details.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/zf_list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_room.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news_details.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/area_list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/area_list_sub.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/favorite_addOrDelete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/favorite_select.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/favorite_zf.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/init.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/jingjiren_details.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/jingjiren_dianpu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/jingjiren_list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/new_room.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/news_details.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/news_list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/user_changepwd.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/user_check_phone.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/user_login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/user_oldpwd_check.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/user_personal.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/user_register.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/zf_details.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/zf_list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/second_hand.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql/ulift.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/user.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/user_changepwd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/user_favorite.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/user_index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/user_personal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zf_details.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zf_list.html" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="mycss.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/mycss.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/user.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="788" />
+    <option name="y" value="8" />
+    <option name="width" value="990" />
+    <option name="height" value="966" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="zufangjq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zufangjq" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="last_opened_file_path" value="G:/web学习/xuexiao/jd xiangqing/ziji" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e346e84d-a691-49fd-8825-f21bb76eaad5" name="默认" comment="" />
+      <created>1508405662024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508405662024</updated>
+      <workItem from="1508405665028" duration="1846000" />
+      <workItem from="1508421272122" duration="1217000" />
+      <workItem from="1508555834969" duration="94000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3157000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="788" y="8" width="990" height="966" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24364407" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/mycss.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/user.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/笔试题/1_closure闭包.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2508">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/笔试题/3_function递归.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/笔试题/4_closure闭包.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/笔试题/2_array降维.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/笔试题/bishi排序去重.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-759">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/笔试题/1_String出现最多的字符.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/mycss.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/user.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
